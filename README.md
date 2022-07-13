@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lenexyyy
 - 👀 Probably nothing
-- 🌱 NFT Trader and Investor
+- 🌱 Learning
 
 <!---
 lenexyyy/lenexyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
